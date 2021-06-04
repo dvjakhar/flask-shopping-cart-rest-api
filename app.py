@@ -6,7 +6,7 @@ from api_routes import api_routes_bp
 # Set up app
 app = Flask(__name__)
 app.config["DEBUG"] = True
-app.config["MONGO_URI"] = "mongodb://localhost:27017/shopping_cart"
+app.config["MONGO_URI"] = "mongodb+srv://dvjakhar:helloworld@cluster0.ej6tm.mongodb.net/shopping_cart"
 
 mongodb_client = PyMongo(app)
 db = mongodb_client.db
