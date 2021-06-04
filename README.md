@@ -17,7 +17,7 @@
 
     git clone https://github.com/dvjakhar31/shopping-cart-rest-api.git && cd shopping-cart-rest-api
     
-### 2. Set up virtualenv
+### 2. Set up [virtualenv](https://packaging.python.org/guides/installing-using-pip-and-virtual-environments/)
 
     virtualenv env
     
@@ -29,7 +29,7 @@
 
     python3 app.py
     
-    App should now be running on <http://localhost:5000/api/>
+    App should now be running on http://localhost:5000/api
 
 
 ## For Testing (Postman)
