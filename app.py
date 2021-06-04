@@ -1,7 +1,7 @@
 # Important imports
 from flask import Flask
 from flask_pymongo import PyMongo
-from api_routes import api_routes_bp
+from api.api_routes import api_routes_bp
 
 # Set up app
 app = Flask(__name__)
