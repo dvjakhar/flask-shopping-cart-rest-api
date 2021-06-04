@@ -2,7 +2,7 @@
 
 ## DESCRIPTION
 
- -    Built a REST Api in Flask+MongoDB
+ -    Built a REST Api using Flask+MongoDB
  -    A RESTful Api built for serving as a Backend for a Shopping Cart.
 
 ## REQUIREMENTS
