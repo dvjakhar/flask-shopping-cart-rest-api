@@ -29,7 +29,7 @@
 
     python3 app.py
     
-    App should now be running on http://localhost:5000/api
+    App should now be running on **http://localhost:5000/api**
 
 
 ## For Testing (Postman)
